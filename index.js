@@ -1,1 +1,1 @@
-console.log("Ameer babab jadibooti");
+console.log("Ameer full stack devloper");
